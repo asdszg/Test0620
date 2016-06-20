@@ -71,7 +71,7 @@ from bs4 import BeautifulSoup
 
 #             print "一个文件完毕"
 #         print "一个文件夹over"
-
+#这是什么鬼东西
 #原始路径
 path = "C:\\Users\\szg\\Desktop\\better-pos"
 #进入的文件夹
